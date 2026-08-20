@@ -1,1 +1,1 @@
-https://andrepuren14.github.io/task-style-layout-javascript-4.8/
+https://andrepuren14.github.io/task-style-layout-javascript-web-core-4.8/
